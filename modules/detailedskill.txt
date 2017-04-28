@@ -1,0 +1,7 @@
+GIT
+states modified, stage, commit
+object model - git log
+branches
+merging
+
+Node
